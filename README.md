@@ -43,6 +43,6 @@ Como estudante de Ciência da Computação, este projeto me permitiu aplicar:
 
 ---
 
-Desenvolvido por **Ramon Ferreira**.
+Desenvolvido por [Ramon Ferreira](https://github.com/RamonFerreira1).
 
 ---
